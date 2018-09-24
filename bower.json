@@ -1,0 +1,8 @@
+{
+  "name": "bug-polymer-serve-wct-dynamic-import-run-twice",
+  "version": "0.0.1",
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^6.5.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.2.7"
+  }
+}
